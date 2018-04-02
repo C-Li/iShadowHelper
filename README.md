@@ -1,0 +1,2 @@
+# iShadowHelper
+获取iShadow页面的ss账号并保存到本地ssr的配置文件中
